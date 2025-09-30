@@ -49,4 +49,10 @@ The dashboard is designed for quick business insights into sales performance and
 - Include regional sales breakdown.  
 - Add trend forecasting to predict future shipments.  
 - Include customer demographic analysis.  
-- Connect live to a database for real-time sales updates.  
+- Connect live to a database for real-time sales updates.
+
+- ## 🙌 Acknowledgement  
+
+This dashboard was created by following a YouTube tutorial by [Kevin Stratvert](https://www.youtube.com/@KevinStratvert).  
+I used his video as a learning resource and customized the project to practice **Power BI dashboard building**.  
+
